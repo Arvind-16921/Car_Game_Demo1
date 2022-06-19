@@ -10,3 +10,4 @@ public class Renderer extends JPanel {
 		Main.mainApp.repaint(g);
 	}
 }
+
