@@ -117,6 +117,5 @@ public class Main implements ActionListener,KeyListener {
 	public void keyReleased(KeyEvent e) {
 		// TODO Auto-generated method stub
 	
-	
 	}
 }
